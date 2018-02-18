@@ -1,7 +1,7 @@
 
 # Rock Paper Scissors Game
 
-This is a mininalist implementation of a very simple game: rock, paper scissors. This project uses HTML, CSS and Javascript. 
+This is a mininalist implementation of a very simple game: rock, paper scissors. This project uses HTML, CSS and Javascript. View the project [HERE](https://roylouislgarcia.github.io/portfolioentries/currentprojects/rockpaperscissors/)
 
 ## Installation
 
