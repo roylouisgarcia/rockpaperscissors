@@ -23,10 +23,6 @@ User chooses among rock, paper, or scissors. The game features scorekeeping and 
 
 The project was started to practice and learn javascript.
 
-## Credits
-
-TODO: Write credits
-
 ## Authors
 
 Roy Louis Garcia
